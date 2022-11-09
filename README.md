@@ -1,0 +1,2 @@
+# portfolio
+File ini adalah merupakan landing page dar portofoli, jika anda memiliki website portofolio sederhana, anda bisa clone filenya dari akun github saya ini, lalu anda bisa mengubah projek-projek sesuai dengan portofolio anda, untuk file gambarnya ada di folder images, anda bisa kostumisasi tampilan yang sudah ada, selamat mencoba, untuk demonya anda bisa lihat di https://risfanyani01.github.io/portfolio/, oh iya file ini saya buat menggunakan framework tailwindCss, terimakasih
